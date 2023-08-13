@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\source\\finalproject_a3\\finalproject_a3gamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\intermediate\\build\\win64\\finalproject_a3editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\intermediate\\build\\win64\\unrealeditor\\development\\finalproject_a3\\definitions.finalproject_a3.h",
+            "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\source\\finalproject_a3\\finalproject_a3gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\intermediate\\build\\win64\\unrealeditor\\inc\\finalproject_a3\\uht\\finalproject_a3gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

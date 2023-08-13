@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\intermediate\\build\\win64\\unrealeditor\\inc\\finalproject_a3\\uht\\finalproject_a3.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\intermediate\\build\\win64\\finalproject_a3editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\rod_f\\onedrive\\documentos\\vfs\\term04\\unrealc++\\ue_a3\\finalproject_a3\\intermediate\\build\\win64\\unrealeditor\\development\\finalproject_a3\\definitions.finalproject_a3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

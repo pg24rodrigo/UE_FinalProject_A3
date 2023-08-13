@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FinalProject_A3",
+			"Path": "C:\\Users\\rod_f\\OneDrive\\Documentos\\VFS\\Term04\\UnrealC++\\UE_A3\\FinalProject_A3\\Source\\FinalProject_A3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FinalProject_A3Editor",
+			"Path": "C:\\Users\\rod_f\\OneDrive\\Documentos\\VFS\\Term04\\UnrealC++\\UE_A3\\FinalProject_A3\\Source\\FinalProject_A3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

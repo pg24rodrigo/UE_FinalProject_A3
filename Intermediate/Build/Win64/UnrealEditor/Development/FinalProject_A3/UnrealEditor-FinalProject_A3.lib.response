@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FinalProject_A3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rod_f\OneDrive\Documentos\VFS\Term04\UnrealC++\UE_A3\FinalProject_A3\Intermediate\Build\Win64\FinalProject_A3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\rod_f\OneDrive\Documentos\VFS\Term04\UnrealC++\UE_A3\FinalProject_A3\Intermediate\Build\Win64\UnrealEditor\Development\FinalProject_A3\FinalProject_A3.init.gen.cpp.obj"
+"C:\Users\rod_f\OneDrive\Documentos\VFS\Term04\UnrealC++\UE_A3\FinalProject_A3\Intermediate\Build\Win64\UnrealEditor\Development\FinalProject_A3\FinalProject_A3GameModeBase.gen.cpp.obj"
+"C:\Users\rod_f\OneDrive\Documentos\VFS\Term04\UnrealC++\UE_A3\FinalProject_A3\Intermediate\Build\Win64\UnrealEditor\Development\FinalProject_A3\FinalProject_A3.cpp.obj"
+"C:\Users\rod_f\OneDrive\Documentos\VFS\Term04\UnrealC++\UE_A3\FinalProject_A3\Intermediate\Build\Win64\UnrealEditor\Development\FinalProject_A3\FinalProject_A3GameModeBase.cpp.obj"
+"C:\Users\rod_f\OneDrive\Documentos\VFS\Term04\UnrealC++\UE_A3\FinalProject_A3\Intermediate\Build\Win64\UnrealEditor\Development\FinalProject_A3\Default.rc2.res"
+/OUT:"C:\Users\rod_f\OneDrive\Documentos\VFS\Term04\UnrealC++\UE_A3\FinalProject_A3\Intermediate\Build\Win64\UnrealEditor\Development\FinalProject_A3\UnrealEditor-FinalProject_A3.lib"
